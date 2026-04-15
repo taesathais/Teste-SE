@@ -1,1 +1,11 @@
-<svg version="1.1" id="Map" class="gen-by-synoptic-designer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720" xml:space="preserve"><polygon id="SEC10.01" ...
+<svg version="1.1" id="Map" class="gen-by-synoptic-designer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" xml:space="preserve">
+  <polygon id="SEC10.01" title="" points="457,192,457,203,467,203,467,192" />
+  <polygon id="SEC10.02" title="" points="490,192,490,203,501,203,501,192" />
+  <polygon id="SEC10.03" title="" points="458,239,458,250,468,250,468,239" />
+  <polygon id="SEC10.04" title="" points="490,239,490,250,501,250,501,239" />
+  <polygon id="TC20.01" title="" points="519,192,519,203,529,203,529,192" />
+  <polygon id="DJ12.01" title="" points="574,192,574,203,585,203,585,192" />
+  <polygon id="SEC13.01" title="" points="631,192,631,203,641,203,641,192" />
+  <polygon id="IP15.01" title="" points="699,239,699,250,710,250,710,239" />
+  <polygon id="TPC16.01" title="" points="1092,191,1092,202,1103,202,1103,191" />
+</svg>
